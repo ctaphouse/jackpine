@@ -1,0 +1,6 @@
+@jackpine.api_HostAddress = http://localhost:5022
+
+GET {{jackpine.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

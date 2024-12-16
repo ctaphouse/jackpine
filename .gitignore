@@ -1,0 +1,13 @@
+# Standard .gitignore for Blazor solutions 
+bin/ 
+obj/ 
+*.user 
+*.vs 
+*.suo 
+*.tmp 
+*.log 
+*.ide 
+.vscode/ 
+**/wwwroot/dist/ 
+**/node_modules/ 
+.env 
